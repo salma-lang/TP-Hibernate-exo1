@@ -3,7 +3,6 @@
 ## 1. Prérequis
 Pour exécuter ce projet, vous devez installer les outils suivants :
 
-MySQL Server 
 
 IDE Java (Netbeans)
 
