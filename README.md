@@ -13,7 +13,9 @@ XAMPP
 Commencez par créer un nouveau projet Java dans votre IDE préféré et nommez-le H1. Dans ce projet, vous allez devoir ajouter les bibliothèques suivantes :
 
 -Hibernate ORM pour la gestion des objets relationnels.
+
 -Le pilote JDBC de MySQL pour la connexion à la base de données MySQL.
+
 
 ## 3. Création de la base de données
 Lancez XAMPP et démarrez le serveur MySQL. Ensuite, créez une base de données nommée H1 dans MySQL.
